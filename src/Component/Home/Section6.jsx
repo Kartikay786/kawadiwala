@@ -48,7 +48,7 @@ function Section6() {
           </p>
         </div>
         <div className="sect1_parts" ref={(el) => sectionRefs.current[1] = el}>
-          <img src={sect6} style={{ width: '180px' }} alt="Pickup Guy" />
+          <img src={sect6} alt="Pickup Guy" />
           <h3>Pickup Guy At Doorstep</h3>
           <p>
             Our professional will reach at your doorstep to collect as per

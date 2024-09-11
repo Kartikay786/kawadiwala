@@ -1,0 +1,14 @@
+.aboutHeading{
+    height: 25vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    background-image: url('	https://lucknowkabadiwala.online/frontend_assets/images/pagetitle-bg.jpg');
+}
+.aboutHeading h1{
+    font-size: 3rem;
+    color: white;
+}

@@ -49,6 +49,7 @@ const Navbar = (val) => {
 
                 <div className='elem'>
                     <NavLink id='elemlink' to="/">Home</NavLink>
+                    <NavLink id='elemlink' to="/about">About</NavLink>
                     <NavLink id='elemlink' to="/ratelist">Rate List</NavLink>
                     <NavLink id='elemlink' to="">Feedback</NavLink>
                     <NavLink id='elemlink' to="/contact">Contact Us</NavLink>

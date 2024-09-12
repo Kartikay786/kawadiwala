@@ -40,7 +40,7 @@ function Section6() {
       <div className="sect6">
         <div className="sect1_parts" ref={(el) => sectionRefs.current[0] = el}>
           <img src={calender} alt="Schedule Pickup" />
-          <h3>Schedule Pickup</h3>
+          <h3>Schedule pickup</h3>
           <p>
             The ScrapKart Schedule Pickup Scrap is a highly efficient and
             reliable scrap removal service that prioritizes the needs of

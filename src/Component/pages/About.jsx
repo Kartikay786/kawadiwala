@@ -11,7 +11,6 @@ const About = () => {
             <Navbar userdisplay="none"/>
             <Sec1About />
             <main>
-                <TextAbout />
                 <MissionCards/>
             </main>
             <Footer />

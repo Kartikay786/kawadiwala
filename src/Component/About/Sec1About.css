@@ -1,7 +1,8 @@
 .aboutHeading{
-    height: 25vh;
+    height: 35vh;
     width: 100%;
     display: flex;
+    margin-bottom: 15vh;
     justify-content: center;
     align-items: center;
     background-size: cover;
@@ -11,4 +12,10 @@
 .aboutHeading h1{
     font-size: 3rem;
     color: white;
+    font-family: sans-serif;
+}
+@media(max-width:850px){
+    .aboutHeading{
+        margin-bottom: 5vh;
+    }
 }

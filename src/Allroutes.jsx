@@ -7,6 +7,7 @@ import Contact from "./Component/pages/Contact";
 import Retailer from "./Component/pages/Retailer";
 import Ratelist from "./Component/pages/Ratelist";
 import About from './Component/pages/About'
+// import Navbar from "./Component/Home/Navbar";
 
 function Allroutes (){
     return(

@@ -73,7 +73,6 @@ const Navbar = (val) => {
             </nav>
             <div className="mobilenav" style={{ visibility: hidden }}>
                 <Link to="/" onClick={() => { toggleMenu(); mobilenavbarhide(); }}>Home</Link> <br />
-                
                 <NavLink id='elemlink' to="/about">About</NavLink><br />
                     <NavLink id='elemlink' to="/ratelist">Rate List</NavLink> <br />
                     <NavLink id='elemlink' to="">Feedback</NavLink> <br />

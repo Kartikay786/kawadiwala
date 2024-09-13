@@ -17,7 +17,7 @@ function Allroutes (){
             <Routes>
                 <Route path="/" element={<Home/>} />
                 <Route path="/about" element={<About/>} />
-                 <Route path="/Register" element={<Signup/>} />
+                <Route path="/Register" element={<Signup/>} />
                 <Route path="/wholesellerlogin" element={<Login name="Whole Seller" routelink="/wholesellerlogin"/>} />
                 <Route path="/Retailerlogin" element={<Login name="Retailer" routelink="/retailerpage"/>} />
                 <Route path="/contact" element={<Contact/>} />

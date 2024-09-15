@@ -11,6 +11,8 @@ import Footer from '../Home/footer'
 import '../Home/Section1.css'
 import Slider from '../Home/Slider'
 import Section6 from '../Home/Section6'
+import Testimonial from '../About/Testimonial'
+import Trustedpartner from '../Home/Trustedpartner'
 
 const Home = () => {
   return (
@@ -27,7 +29,8 @@ const Home = () => {
         {/* <Section3/> */}
         <Section4/>
         <Section5/>
-
+        <Testimonial/>
+        <Trustedpartner/>
       </main>
 
       <Footer/>
